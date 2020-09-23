@@ -1,11 +1,16 @@
 _repo: USDA-Farmers-Bulletin-No-754-The-Bedbug-1934_63229
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63229-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Marlatt, Charles Lester
     gutenberg_agent_id: '52337'
     url: http://www.gutenberg.org/2009/agents/52337
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63229#USDA-Farmers-Bulletin-No-754-The-Bedbug-1934
 gutenberg_issued: '2020-09-18'
 gutenberg_type: Text
 identifiers:
